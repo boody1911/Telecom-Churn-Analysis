@@ -1,2 +1,19 @@
-# Telecom-Churn-Analysis
-This project focuses on analyzing customer churn in the telecom industry. It includes data cleaning, exploratory analysis, and building visual dashboards to understand customer behavior. The goal is to find the key factors that affect churn and help the company improve retention strategies.
+# Telecom Churn Analysis
+
+This project analyzes customer churn in the telecom industry.  
+It contains a detailed proposal and a dashboard that highlight the key insights from the data.
+
+## 📂 Files
+- **Customer Churn Proposal.pdf** → Project proposal and detailed explanation  
+- **Customer Churn Dashboard** → Dashboard visualization (image)  
+
+## 📊 Key Insights
+- Customers with shorter contract durations are more likely to churn.  
+- Unlimited data plans are linked to lower churn rates.  
+- Monthly charges have a strong influence on churn.  
+
+## 🛠️ Tools Used
+- Power query
+- Power BI  
+- Excel
+- Power point
