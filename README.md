@@ -5,7 +5,7 @@ It contains a detailed proposal and a dashboard that highlight the key insights 
 
 ## Files
 - [Customer Churn Proposal](Customer_Churn_Proposal) → Project proposal and detailed explanation
-- ![Customer Churn Dashboard](Dashboard) → Dashboard visualization
+-  Dashboard visualization→ ![Customer Churn Dashboard](Dashboard)
 
 ## Key Insights
 - Customers with shorter contract durations are more likely to churn.  
