@@ -15,7 +15,7 @@ The work included:
 - **Interactive Dashboard** built with Power BI  
 - Snapshot of the dashboard:  
 
-![Customer Churn Dashboard](dashboard)  
+![Customer Churn Dashboard](Dashboard)  
 
 ---
 
